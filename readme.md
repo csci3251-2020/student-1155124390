@@ -24,8 +24,7 @@ CSCI2720 | Not Done
 ESTR2102 | Done
 
 ## Screenshot
-![Image of screenshot]
-(https://raw.githubusercontent.com/csci3251-2020/student-1155124390/master/screenshot.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/csci3251-2020/student-1155124390/master/screenshot.png)
 
 
 
