@@ -23,8 +23,9 @@ Class Name | Status
 CSCI2720 | Not Done
 ESTR2102 | Done
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+## Screenshot
+![Image of screenshot]
+(https://raw.githubusercontent.com/csci3251-2020/student-1155124390/master/screenshot.png)
 
 
 
