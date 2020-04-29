@@ -23,8 +23,9 @@ Class Name | Status
 CSCI2720 | Not Done
 ESTR2102 | Done
 
-![Screenshot]
-(./screenshot.png)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
+
 
 
 
