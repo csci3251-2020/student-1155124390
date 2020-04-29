@@ -23,6 +23,8 @@ Class Name | Status
 CSCI2720 | Not Done
 ESTR2102 | Done
 
+![Screensgot] (/milestone/Screenshot from 2020-04-30 02-20-36.png)
+Format: ![Alt Text](url)
 
 
 
